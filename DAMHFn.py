@@ -17,7 +17,7 @@ from PIL import ImageTk, Image
 #    bytesize = serial.EIGHTBITS,
 #    timeout = 1
 #)
-
+#
 Vuong = 0; HCN = 0; Tron = 0; TamGiac = 0 ; san_pham_loi = 0
 shape= ""
 
